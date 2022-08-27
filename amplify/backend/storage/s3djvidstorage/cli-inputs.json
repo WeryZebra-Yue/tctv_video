@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3djvidstorage",
+  "bucketName": "dj-vid-storage",
+  "policyUUID": "48fbf0f7",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "READ",
+    "CREATE_AND_UPDATE",
+    "DELETE"
+  ]
+}

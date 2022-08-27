@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vidplayer-staging-101142-authRole",
+      "UnauthRoleArn": "arn:aws:iam::136534730394:role/amplify-vidplayer-staging-101142-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::136534730394:role/amplify-vidplayer-staging-101142-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-vidplayer-staging-101142-deployment",
+      "UnauthRoleName": "amplify-vidplayer-staging-101142-unauthRole",
+      "StackName": "amplify-vidplayer-staging-101142",
+      "StackId": "arn:aws:cloudformation:us-east-1:136534730394:stack/amplify-vidplayer-staging-101142/7d8b71b0-2070-11ed-a72f-0acfc9d5d249",
+      "AmplifyAppId": "dpt1p93r5y5h3"
+    },
+    "categories": {
+      "auth": {
+        "vidplayer": {}
+      }
+    }
+  }
+}

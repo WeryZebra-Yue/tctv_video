@@ -1,0 +1,12 @@
+type VideoModel @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  Video_Title: String
+}
+
+type UserModel @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  email: String
+  videos: [String]!
+  password: String
+}
+ 
